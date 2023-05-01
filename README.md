@@ -1,3 +1,3 @@
 # Retail_Store
 
-! [UML diagarama] (UML_RetailStore.drawio.png)
+! [UML diagarama] (https://raw.githubusercontent.com/MargalXC/Retail_Store/main/UML_RetailStore.drawio.png)
